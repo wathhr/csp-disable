@@ -1,0 +1,9 @@
+{
+  "name": "CSP Disable",
+  "id": "wathhr.csp-disable",
+  "config": {
+    "contentTypes": {
+      "stylesheet": ["text/css"]
+    }
+  }
+}
